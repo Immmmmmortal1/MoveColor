@@ -1,0 +1,17 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'MoveColor' do
+
+
+
+  
+  pod 'AFNetworking'
+  pod 'SnapKit'
+  
+  pod 'UMCCommon'
+  pod 'UMCSecurityPlugins'
+  pod 'UMCAnalytics'
+  
+  pod 'JPush'
+end
